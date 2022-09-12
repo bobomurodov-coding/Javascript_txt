@@ -6,7 +6,7 @@
 6.  % bu biror bir sonni  bo’lgandagi qoldig’iini aniqlaydi
 7.  !== ikki sonni birbiriga aynan teng emasligini topib beradi
 8.  < > bular bir biriga katta kichikligini aniqlaydi
-9.  <= >= bular ikki sonni biri katta yoki tengligini aniqlaydi
+9.  <=  bular ikki sonni biri katta yoki tengligini aniqlaydi
 10.  && bu ikkita qiymatni urtasiga quyiladi birinchisi tugri bulsa ikknichisini chiqaradi birinchisi xato bulsa birinchisini chiqaradi 
 11.  Malumot turlari bu lar string, number, undifiened,null,boolean
 12.  ** bu biror bir sonni darajaga kutarib beradi
@@ -67,6 +67,36 @@
 67. Charcodeat bu matndagi nichanchi raqamda qaysi harf turganligini chiqaradi
 68. ?? bu opertor birinchi kegan operandni aniqlaydi
 69. NaN bu raqam emas ligini bildiradi
-70.<script> tagi bu html faylni ichiga script cade yozmoqchi bulsak shu tagni ichiga yozishimiz mumkin
-71.() bu qavs biror bir funksiyani ishlashi uchun kerak buladi
-72.
+70. <script> tagi bu html faylni ichiga script cade yozmoqchi bulsak shu tagni ichiga yozishimiz mumkin
+71. () bu qavs biror bir funksiyani ishlashi uchun kerak buladi
+72. i bu for ni ichida yoziladigan uzgaruvchi 
+73. i++ bu forni kalit suzlaridan biri i++ forni takrorlanishi uchun kerak buladi har safar bittaga kopayishi uchun kerak
+74. i-- bu forni kalit suzlaridan biri i++ forni takrorlanishi uchun kerak buladi har safar bittaga kamayishi  uchun kerak
+75. forni ichida i da tashqari j ni ham ishlatilishi mumkin
+76. i<=10 bu forni ichida qanchaga cha kupayishi uchun kerak
+77. forni ichida i da tashqari k ni ham ishlatilishi mumkin
+78. if bu a = b ga bolsa logga 4 chiqsin deyiladi
+79. 1 ta if yozilgandan keyin elsega shart berib bolmaydi dhuning uchi ifdan keyin else if() qilib shart berishi mumkin
+80. case bu switchh caseni ichidagi codi case dan keyin suzlar yoziladi
+81.: switch caseda case ni ichiga narsa yozish uchun quyiladi
+82. forni ichiga 3ta amal yoziladi i=0; i<=10; i++
+83. `` bu belgi forda logni ichiga suz yozmoiqchi bulsak shunda foydalanamiz
+84. const bu uzgarmas karobka
+85. !== bu belgi ikkita sonni bir biriga teng emasligini bildiradi
+86. >= bu kichik yoki tengligini bildiradi
+87. ! bu belgi teng emaslik belgisi
+88. ^ bu operator mantiqiy xor amali 
+89. Math.ceil bu uzidan keyingi songa qarb intiladi
+90. Math.exp bu  Math.E ni kiritgan sonimizga darajaga oshirib beradi
+91. Math.cos bu uchburchakni cosinusini chiqarib beradi
+92. Math.sin bu uchburchakni  sinusini chiqarib beradi
+93. ( ) ifodalarni guruhlash
+94. Math.floor uzidan orqadagi songa qarab intiladi
+95. /* */ bu js da commentga olib quyish uchun kerak
+96. else bu ifni sharti bajarilmasa else ishlaydi
+97. ECMAScript bu web sahifani turli brauzerlarda ochish uchun 
+98. Katta A bilan Kichkin a bir biriga teng bulmaydi
+
+
+
+
