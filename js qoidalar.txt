@@ -1,0 +1,72 @@
+1.  Typeof = bu karobkani ichidagi elementni turini aniqlaydi 
+2.  Operatorlar arifmetik amallar, qo’shish , ayirish,bo’lish,ko’paytirish
+3.  === aynan bir biriga tengligini aniqlaydi
+4.  ++ bu raqamni elemantni bittaga ko’paytirib beradi 
+5.  -- bu raqamni bittaga kamaytirib beradi
+6.  % bu biror bir sonni  bo’lgandagi qoldig’iini aniqlaydi
+7.  !== ikki sonni birbiriga aynan teng emasligini topib beradi
+8.  < > bular bir biriga katta kichikligini aniqlaydi
+9.  <= >= bular ikki sonni biri katta yoki tengligini aniqlaydi
+10.  && bu ikkita qiymatni urtasiga quyiladi birinchisi tugri bulsa ikknichisini chiqaradi birinchisi xato bulsa birinchisini chiqaradi 
+11.  Malumot turlari bu lar string, number, undifiened,null,boolean
+12.  ** bu biror bir sonni darajaga kutarib beradi
+13.  For Takrorlanish operatori
+14.  If else bu shart operatori
+15.  Console.log bu biror bir elementni consolega chiqarib beradi
+16.  Math funksiyasi bu js da matematik amallar bajarish uchun kerak buladi
+17.  Math.random bu 0 va 1 oralig’idagi xoxlagan soinini chiqarib beradi
+18.  Math.abs bu manfiy sonni ham musbat qilib chiqarib beradi
+19.  Math.max bu bir nechta sonlarni eng kattasini chiqarib beradi
+20.  Math.round bu masalani 4.5 dan kichkina bolsa 4 chiqaradi agar katta bolsa 5 chiqaradi
+21.  Math.Min bu bir nechta sonlarni ichidagi kichkinasini chiqarib beradi
+22.  Let bu bir karobka 
+23.  True ni qiymati 1 ga teng 
+24.  False ni qiymati 0 ga teng
+25.  Math.pow funksiyasi bu biror bir sonni darajaga ko’taradi
+26.  Math.sqrt bu bir sonni ildizdan chiqaradi
+27.  Math.Pi bu bir qiymatga ega =  3.141592653589793
+28.  Math.E buham bir qiymatga ega = 2.718281828459045
+29.  & operatori ikkilik sanoq sistemasida ko’paytiradi
+30.  Mantiqiy yoki bu operator bu true bilan false bulsa true chiqaradi false  true bolsa true chiqaradi
+31.  ?? bu operator birinchi kelgan raqamni chiqaradi
+32.  != bu operator ikki sonni teng emasligini chiqaradi
+33.  ~ bu operator biror bir sonni teskarisiga o’girib bir ayirib beradi.
+34.  Charcodeat bu funksiya matndagi unicodeni aniqlaydi
+35.  Break bu funksiya switch caseni ishlashini tuxtatadi
+36.  Do Operatori Takrorlanish operatori
+37.  Do While operatori Takrorlanish operatori
+38.  Let a = 4; bunda “a ” Karobkani Nomi 4 esa Karobkani ichidagi narsa
+39.  Operand bu malumotlar qiymati 1+2 da 1 bilan 2 operand
+40.  + bu operator ikki operatorni bir biriga qo’shadi
+41.  - bu operator ikki operatorni bir biridan ayiradi
+42.  * bu operator ikki operatorni bir biriga ko’paytiradi
+43.  String bu Qo’shtirnoq ichiga solinga qiymat 
+44.  Number bu raqamlardan iborat qiymat
+45.  Boolean bu faqatgina ture va false dan iborat bolgan malumot turi 
+46.  Undifined bu aniqlanmagan uzgaruvchi yani elon qilingan lekin hali qiymat berilmagan 
+47.  Null bu qiymat bu biror bir obektni ataylab qiymati yuqligini anglatadi
+48. = belgilash operatori o'zgaruvchiga qiymat beradi.
+49. += belgilash operatori o'zgaruvchiga qiymat qo'shadi.
+50. -= belgilash operatori o'zgaruvchidan qiymatni ayiradi.
+51. *= tayinlash operatori o'zgaruvchini ko'paytiradi.
+52. /= topshirig'i o'zgaruvchini ajratadi.
+53. %= tayinlash operatori o'zgaruvchiga qoldiqni tayinlaydi.
+54. \ backslash bu birorta suzda tutuq belgi buladigan bolsa string yopilib qolmasligi uchun quyiladi
+55. \n bu birorta matnni bir qismini sindirib beradi
+56. var bu ham bir uzgaruvchi
+57. agar stringga biror bir raqamni qushsak ikkovini yopishtirib quyadi
+58. ${} bu belgi for ni ichida `` teldaga olib yozganimizda i ni stringga olib ketmaslik uchun kerak
+59. default bu switch case da ishlatiladi bu switch caseni po umolchinea qiymatini belgilab beradi
+60. , bu biror bir amal tugagan dan keyin uni ketidan yana bir amal yozish uchun kerak
+61. '' "" bu belgilar matnni stringga olishimiz uchun ishlatiladi
+62. ; nuqta vergul biror bir amal tugaganini bildiradi
+63. // bu biror bir kodni coment ga olib quyish uchun kerak
+64. {} bu qavslar ichma ichligni bildiradi
+65. do operatori ham takrorlanish operatori
+66. break bu switch caseni davomiyligini tuxtatadi
+67. Charcodeat bu matndagi nichanchi raqamda qaysi harf turganligini chiqaradi
+68. ?? bu opertor birinchi kegan operandni aniqlaydi
+69. NaN bu raqam emas ligini bildiradi
+70.<script> tagi bu html faylni ichiga script cade yozmoqchi bulsak shu tagni ichiga yozishimiz mumkin
+71.() bu qavs biror bir funksiyani ishlashi uchun kerak buladi
+72.
